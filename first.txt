@@ -1,0 +1,1 @@
+This is my file created for understanding how to work with remote GIT repository.
